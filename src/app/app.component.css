@@ -1,0 +1,14 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    background-color: springgreen;
+}
+h1,h5{
+    background-color: cyan;
+    text-align: center;
+    
+}
+.right{
+    display: flex;
+    margin-left: 600px;
+}

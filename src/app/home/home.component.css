@@ -1,0 +1,51 @@
+h1{
+    text-align: center;
+    font-style: oblique;
+    color:white;
+    background-color: cadetblue;
+}
+body{
+    
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 0%;
+    margin: 0%;
+
+}
+.kr{
+    font-style: italic;
+    background-color: coral;
+}
+.kr{
+    background-color:black;
+}
+.heading {
+    font-size: 20px;
+    font-weight: 600;
+    color: #3D5AFE
+}
+
+.line1 {
+    color: #000;
+    font-size: 12px
+}
+
+.line2 {
+    color: #000;
+    font-size: 12px
+}
+
+.line3 {
+    color: #000;
+    font-size: 12px
+}
+
+.cards {
+    transition: all 0.2s ease;
+    cursor: pointer
+}
+
+.cards:hover {
+    box-shadow: 5px 6px 6px 2px #e9ecef;
+    transform: scale(1.1)
+}

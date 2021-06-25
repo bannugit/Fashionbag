@@ -1,0 +1,14 @@
+h1{
+    text-align:center ;
+    color: violet;
+}
+h3{
+    color: coral;
+}
+h5,li{
+    color: darkblue;
+}
+body{
+    margin: 0%;
+    padding: 0%;
+}
